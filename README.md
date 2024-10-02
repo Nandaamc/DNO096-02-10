@@ -1,4 +1,4 @@
-imagenes portadas
+![sisam UX](https://github.com/user-attachments/assets/fa667a02-616b-44fe-bbb5-952e1b177075)imagenes portadas
 ![Crochet](https://github.com/user-attachments/assets/9f441793-9d55-4d17-86f7-76fc4f3906e2)
 ![afiches](https://github.com/user-attachments/assets/75df7dae-6b90-4f77-a57f-6c9f8efb5bf7)
 ![ámbar](https://github.com/user-attachments/assets/fc7c7eaf-5735-449c-abc5-47f5698a0fc8)
@@ -6,12 +6,12 @@ imagenes portadas
 ![kuky](https://github.com/user-attachments/assets/15fce562-71ed-4283-a33d-808b386159f9)
 ![Moodboards](https://github.com/user-attachments/assets/ca925aa8-21b9-475f-9ba7-924342a7fd70)
 ![piel de tinta](https://github.com/user-attachments/assets/b9a5093c-dc5d-4301-aef8-0ba5d6ade9fc)
-![sisam ux](https://github.com/user-attachments/assets/f063b623-32e1-4bab-b996-162a94985bdd)
 ![ecocitex](https://github.com/user-attachments/assets/bdfc89b0-2962-4dda-b0e4-b850f717db76)
 ![massacra](https://github.com/user-attachments/assets/f1a6f461-9a81-428a-8afb-1d08c044eec3)
 ![ilustraciones](https://github.com/user-attachments/assets/e717da0d-1201-4257-a6c8-dd994da9439f)
 ![CDP](https://github.com/user-attachments/assets/2b1f2b09-0143-41d7-84e5-7c4be3d6c0a5)
 ![CDP](https://github.com/user-attachments/assets/691f5098-d12d-4ab8-b473-70357e6228f7)
+![sisam UX](https://github.com/user-attachments/assets/174971d9-8a69-4e59-9cf1-492968e713cc)
 
 Imagenes interior
 ![crochet](https://github.com/user-attachments/assets/ecb75fe9-6574-443f-90fe-2ee2cc9c4c1e)
@@ -25,3 +25,9 @@ Imagenes interior
 ![sisam ux](https://github.com/user-attachments/assets/ee7f1964-0a3f-46c2-af91-c6c61de316a8)
 ![ilustraciones](https://github.com/user-attachments/assets/1a71a4f1-f454-4c38-bf46-8f93ecd93a6a)
 ![massacra](https://github.com/user-attachments/assets/34cb8188-050e-4db6-ad3e-b932a2c3681e)
+
+![sobre mi](https://github.com/user-attachments/assets/868cc1c4-eced-44c7-b1f1-14fb6c90a77c)
+
+
+
+
